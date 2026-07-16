@@ -119,22 +119,22 @@ Home Page
 Legitimate URL Detection
 
 <img width="1424" height="652" alt="image" src="https://github.com/user-attachments/assets/fb481a2e-e020-481d-b5ee-721c50a3403b" /><br><br>
-URL:https://platform.openai.com/
+URL:https://platform.openai.com/ 👆
 
 
 Suspicious URL Detection
 
 <img width="1423" height="806" alt="image" src="https://github.com/user-attachments/assets/cd0970b9-d6d3-4963-a20d-46ebf7f21e23" /><br><br>
-URL:http://127.0.0.1:5000/
+URL:http://127.0.0.1:5000/ :point_up:
 <img width="1423" height="798" alt="image" src="https://github.com/user-attachments/assets/68546c7a-ccbb-4f84-b59d-795c96eb5622" /><br><br>
-URL:https://shorturl.at/yznPa 
+URL:https://shorturl.at/yznPa :point_up:
 
 
 
 Phishing URL Detection
 
 <img width="1408" height="799" alt="image" src="https://github.com/user-attachments/assets/f17762e1-466b-4185-8dfd-158dbbdeec2e" />
-URL: http://192.168.1.1/login
+URL: http://192.168.1.1/login :point_up:
 
 
 📈 Key Functionalities
