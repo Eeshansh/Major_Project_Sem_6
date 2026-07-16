@@ -35,6 +35,7 @@ The system performs:
 - Interactive Flask-based web interface
 
 🏗️ System Architecture
+
 <img width="269" height="325" alt="image" src="https://github.com/user-attachments/assets/236a5c29-fab6-4fce-92f9-3874a0e6d7f2" />
 
 
