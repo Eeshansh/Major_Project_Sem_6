@@ -1,4 +1,4 @@
-🛡️ Phishing URL Detection System
+🛡️ Phishing URL Detection System 
 
 A Hybrid Phishing URL Detection System developed as the **Major Project** for the Bachelor of Computer Applications (BCA) program at **Amrita Vishwa Vidyapeetham**.
 
