@@ -35,24 +35,7 @@ The system performs:
 - Interactive Flask-based web interface
 
 🏗️ System Architecture
-'''
-                User
-                  │
-                  ▼
-          Flask Web Application
-                  │
-        ┌─────────┴─────────┐
-        │                   │
-        ▼                   ▼
- Rule-Based Engine     ML Prediction
-        │                   │
-        └─────────┬─────────┘
-                  ▼
-        Hybrid Decision Engine
-                  │
-                  ▼
-        Security Analysis Report
-```
+<img width="269" height="325" alt="image" src="https://github.com/user-attachments/assets/236a5c29-fab6-4fce-92f9-3874a0e6d7f2" />
 
 
 
@@ -88,29 +71,9 @@ https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset
 
 📂 Project Structure
 
-```
-Phishing-URL-Detection-System/
-│
-├── app.py
-├── train_model.py
-├── requirements.txt
-│
-├── templates/
-│   └── index.html
-│
-├── static/
-│
-├── utils/
-│   ├── featureExtractor.py
-│   ├── rule_engine.py
-│   └── ml_model.py
-│
-├── model/
-│   ├── model.pkl
-│   └── tfidf.pkl
-│
-└── README.md
-```
+<img width="219" height="393" alt="image" src="https://github.com/user-attachments/assets/f8829350-d1d4-4921-bded-2a594582e9d7" />
+
+
 Installation
 
 Clone the repository
@@ -149,25 +112,25 @@ http://127.0.0.1:5000
 
 Home Page
 
-<img width="1428" height="812" alt="image" src="https://github.com/user-attachments/assets/112bed5f-eb53-4f83-855b-24c09f45001c" />
+<img width="1428" height="812" alt="image" src="https://github.com/user-attachments/assets/112bed5f-eb53-4f83-855b-24c09f45001c" /><br><br>
 
 
 Legitimate URL Detection
 
-<img width="1424" height="652" alt="image" src="https://github.com/user-attachments/assets/fb481a2e-e020-481d-b5ee-721c50a3403b" />
+<img width="1424" height="652" alt="image" src="https://github.com/user-attachments/assets/fb481a2e-e020-481d-b5ee-721c50a3403b" /><br><br>
 URL:https://platform.openai.com/
 
 
 Suspicious URL Detection
 
-<img width="1423" height="806" alt="image" src="https://github.com/user-attachments/assets/cd0970b9-d6d3-4963-a20d-46ebf7f21e23" />
+<img width="1423" height="806" alt="image" src="https://github.com/user-attachments/assets/cd0970b9-d6d3-4963-a20d-46ebf7f21e23" /><br><br>
 URL:http://127.0.0.1:5000/
-<img width="1423" height="798" alt="image" src="https://github.com/user-attachments/assets/68546c7a-ccbb-4f84-b59d-795c96eb5622" />
+<img width="1423" height="798" alt="image" src="https://github.com/user-attachments/assets/68546c7a-ccbb-4f84-b59d-795c96eb5622" /><br><br>
 URL:https://shorturl.at/yznPa 
 
 
 
-### Phishing URL Detection
+Phishing URL Detection
 
 <img width="1408" height="799" alt="image" src="https://github.com/user-attachments/assets/f17762e1-466b-4185-8dfd-158dbbdeec2e" />
 URL: http://192.168.1.1/login
